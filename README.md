@@ -10,7 +10,7 @@ Apenas um entusiasta da tecnologia, apaixonado por criar sistemas e projetos inc
 
 <div style="display: flex; justify-content: center; align-itens: center; flex-wrap: wrap; gap: 6px">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mgluizbrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mgluizbrito&show_icons=true&theme=dark&include_all_commits=true"/>
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mgluizbrito&layout=compact&bg_color=141414&title_color=fff&" height="195" />
 </div>
