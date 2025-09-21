@@ -8,11 +8,13 @@
 ## 🚀 Sobre mim
 Apenas um entusiasta da tecnologia, apaixonado por criar sistemas e projetos incríveis e úteis com linguagens de programação amplamente conheidas. Tenho grande interesse em desenvolvimento frontend e backend e estou sempre em busca de desafios para aprimorar minhas habilidades e aprender novas tecnologias.
 
-<div style="display: flex; justify-content: center; align-itens: center; flex-wrap: wrap; gap: 6px">
+<div style="display: flex; justify-content: center; align-itens: center; flex-wrap: wrap; gap: 6px;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mgluizbrito&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mgluizbrito&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgluizbrito&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mgluizbrito&layout=compact&bg_color=141414&title_color=fff&" height="195" />
+
 </div>
 
 ## 🛠 Habilidades
