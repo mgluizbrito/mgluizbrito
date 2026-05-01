@@ -55,11 +55,14 @@ Apenas um entusiasta da tecnologia, apaixonado por criar sistemas e projetos inc
 
 <br>
 
-## 🔗 Links e Contatos
-<p align="left">
-  <a href="https://lnk.bio/mgluizbrito"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="LinkTree" /></a>
-  <a href="https://www.linkedin.com/in/luiz-miguel-xavier-de-brito/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/mgluizbrito/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+## 📌 Projetos em Destaque
+<div align="center">
+  <a href="https://github.com/mgluizbrito/NOME-DO-PROJETO-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=NOME-DO-PROJETO-1&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/mgluizbrito/NOME-DO-PROJETO-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=NOME-DO-PROJETO-2&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
 
 ![footer waves](https://capsule-render.vercel.app/api?type=waving&height=120&color=1e40af&section=footer&reversal=true)
