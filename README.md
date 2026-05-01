@@ -57,11 +57,11 @@ Apenas um entusiasta da tecnologia, apaixonado por criar sistemas e projetos inc
 
 ## 📌 Projetos em Destaque
 <div align="center">
-  <a href="https://github.com/mgluizbrito/NOME-DO-PROJETO-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=NOME-DO-PROJETO-1&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/mgluizbrito/pdf-sorgu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=pdf-sorgu&theme=tokyonight&show_owner=true" />
   </a>
-  <a href="https://github.com/mgluizbrito/NOME-DO-PROJETO-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=NOME-DO-PROJETO-2&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/mgluizbrito/topsoil-seeder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgluizbrito&repo=topsoil-seeder&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
